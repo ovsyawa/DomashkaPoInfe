@@ -1,0 +1,12 @@
+C:\Users\ionov\source\repos\дз\дз\bin\Debug\дз.exe.config
+C:\Users\ionov\source\repos\дз\дз\bin\Debug\дз.exe
+C:\Users\ionov\source\repos\дз\дз\bin\Debug\дз.pdb
+C:\Users\ionov\source\repos\дз\дз\bin\Debug\дз.xml
+C:\Users\ionov\source\repos\дз\дз\obj\Debug\дз.vbprojAssemblyReference.cache
+C:\Users\ionov\source\repos\дз\дз\obj\Debug\дз.Form1.resources
+C:\Users\ionov\source\repos\дз\дз\obj\Debug\дз.Resources.resources
+C:\Users\ionov\source\repos\дз\дз\obj\Debug\дз.vbproj.GenerateResource.cache
+C:\Users\ionov\source\repos\дз\дз\obj\Debug\дз.vbproj.CoreCompileInputs.cache
+C:\Users\ionov\source\repos\дз\дз\obj\Debug\дз.exe
+C:\Users\ionov\source\repos\дз\дз\obj\Debug\дз.xml
+C:\Users\ionov\source\repos\дз\дз\obj\Debug\дз.pdb
