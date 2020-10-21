@@ -59,5 +59,15 @@ Namespace My.Resources
                 resourceCulture = value
             End Set
         End Property
+        
+        '''<summary>
+        '''  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+        '''</summary>
+        Friend ReadOnly Property aRO5zwNJAyM() As System.Drawing.Bitmap
+            Get
+                Dim obj As Object = ResourceManager.GetObject("aRO5zwNJAyM", resourceCulture)
+                Return CType(obj,System.Drawing.Bitmap)
+            End Get
+        End Property
     End Module
 End Namespace
