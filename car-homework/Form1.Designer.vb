@@ -65,10 +65,10 @@ Partial Class Form1
         '
         'Button1
         '
-        Me.Button1.Location = New System.Drawing.Point(9, 303)
+        Me.Button1.Location = New System.Drawing.Point(387, 294)
         Me.Button1.Margin = New System.Windows.Forms.Padding(2)
         Me.Button1.Name = "Button1"
-        Me.Button1.Size = New System.Drawing.Size(285, 53)
+        Me.Button1.Size = New System.Drawing.Size(193, 53)
         Me.Button1.TabIndex = 2
         Me.Button1.Text = "Чек"
         Me.Button1.UseVisualStyleBackColor = True
@@ -87,10 +87,10 @@ Partial Class Form1
         'PictureBox1
         '
         Me.PictureBox1.Image = CType(resources.GetObject("PictureBox1.Image"), System.Drawing.Image)
-        Me.PictureBox1.Location = New System.Drawing.Point(9, 173)
+        Me.PictureBox1.Location = New System.Drawing.Point(11, 245)
         Me.PictureBox1.Margin = New System.Windows.Forms.Padding(2)
         Me.PictureBox1.Name = "PictureBox1"
-        Me.PictureBox1.Size = New System.Drawing.Size(580, 126)
+        Me.PictureBox1.Size = New System.Drawing.Size(154, 110)
         Me.PictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage
         Me.PictureBox1.TabIndex = 4
         Me.PictureBox1.TabStop = False
@@ -107,7 +107,7 @@ Partial Class Form1
         'RadioButton1
         '
         Me.RadioButton1.AutoSize = True
-        Me.RadioButton1.Location = New System.Drawing.Point(328, 95)
+        Me.RadioButton1.Location = New System.Drawing.Point(327, 81)
         Me.RadioButton1.Margin = New System.Windows.Forms.Padding(2)
         Me.RadioButton1.Name = "RadioButton1"
         Me.RadioButton1.Size = New System.Drawing.Size(110, 17)
@@ -130,7 +130,7 @@ Partial Class Form1
         'CheckBox3
         '
         Me.CheckBox3.AutoSize = True
-        Me.CheckBox3.Location = New System.Drawing.Point(328, 51)
+        Me.CheckBox3.Location = New System.Drawing.Point(328, 35)
         Me.CheckBox3.Margin = New System.Windows.Forms.Padding(2)
         Me.CheckBox3.Name = "CheckBox3"
         Me.CheckBox3.Size = New System.Drawing.Size(96, 17)
@@ -141,7 +141,7 @@ Partial Class Form1
         'CheckBox4
         '
         Me.CheckBox4.AutoSize = True
-        Me.CheckBox4.Location = New System.Drawing.Point(465, 51)
+        Me.CheckBox4.Location = New System.Drawing.Point(465, 35)
         Me.CheckBox4.Margin = New System.Windows.Forms.Padding(2)
         Me.CheckBox4.Name = "CheckBox4"
         Me.CheckBox4.Size = New System.Drawing.Size(102, 17)
@@ -162,7 +162,7 @@ Partial Class Form1
         'RadioButton2
         '
         Me.RadioButton2.AutoSize = True
-        Me.RadioButton2.Location = New System.Drawing.Point(328, 116)
+        Me.RadioButton2.Location = New System.Drawing.Point(328, 102)
         Me.RadioButton2.Margin = New System.Windows.Forms.Padding(2)
         Me.RadioButton2.Name = "RadioButton2"
         Me.RadioButton2.Size = New System.Drawing.Size(109, 17)
@@ -173,7 +173,7 @@ Partial Class Form1
         '
         'TextBox3
         '
-        Me.TextBox3.Location = New System.Drawing.Point(376, 303)
+        Me.TextBox3.Location = New System.Drawing.Point(169, 303)
         Me.TextBox3.Margin = New System.Windows.Forms.Padding(2)
         Me.TextBox3.Name = "TextBox3"
         Me.TextBox3.Size = New System.Drawing.Size(204, 20)
@@ -184,7 +184,7 @@ Partial Class Form1
         '
         Me.ComboBox1.FormattingEnabled = True
         Me.ComboBox1.Items.AddRange(New Object() {"13""", "14""", "15""", "16""", "17""", "18""", "19"""})
-        Me.ComboBox1.Location = New System.Drawing.Point(328, 148)
+        Me.ComboBox1.Location = New System.Drawing.Point(328, 131)
         Me.ComboBox1.Margin = New System.Windows.Forms.Padding(2)
         Me.ComboBox1.Name = "ComboBox1"
         Me.ComboBox1.Size = New System.Drawing.Size(165, 21)
@@ -193,7 +193,7 @@ Partial Class Form1
         '
         'TextBox4
         '
-        Me.TextBox4.Location = New System.Drawing.Point(376, 327)
+        Me.TextBox4.Location = New System.Drawing.Point(169, 327)
         Me.TextBox4.Margin = New System.Windows.Forms.Padding(2)
         Me.TextBox4.Name = "TextBox4"
         Me.TextBox4.Size = New System.Drawing.Size(204, 20)

@@ -22,5 +22,10 @@ CarHomework
   обращений к ресурсу с помощью этого класса ресурса со строгой типизацией.
 </summary>
 </member>
+<member name="P:CarHomework.My.Resources.Resources.aRO5zwNJAyM">
+<summary>
+  Поиск локализованного ресурса типа System.Drawing.Bitmap.
+</summary>
+</member>
 </members>
 </doc>

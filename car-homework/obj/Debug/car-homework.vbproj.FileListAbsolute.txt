@@ -1,0 +1,12 @@
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\bin\Debug\CarHomework.exe.config
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\bin\Debug\CarHomework.exe
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\bin\Debug\CarHomework.pdb
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\bin\Debug\CarHomework.xml
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\obj\Debug\car-homework.vbprojAssemblyReference.cache
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\obj\Debug\CarHomework.Form1.resources
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\obj\Debug\CarHomework.Resources.resources
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\obj\Debug\car-homework.vbproj.GenerateResource.cache
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\obj\Debug\car-homework.vbproj.CoreCompileInputs.cache
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\obj\Debug\CarHomework.exe
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\obj\Debug\CarHomework.xml
+C:\Users\func\source\repos\DomashkaPoInfe\car-homework\obj\Debug\CarHomework.pdb

@@ -11,7 +11,7 @@
         If CheckBox3.Checked Then summary += 300
         If CheckBox4.Checked Then summary += 300
         For i As Integer = 13 To 19
-            If ComboBox1.SelectedItem IsNot Nothing And ComboBox1.SelectedItem.ToString.Substring(0, 2) = i Then summary += 500
+            If ComboBox1.SelectedItem IsNot Nothing And ComboBox1.SelectedItem.ToString.Substring(0, 2) = i Then summary += 500 + i * 50 - 50 * 13
         Next
         If RadioButton2.Checked Then summary *= 2
         TextBox3.Text = summary
